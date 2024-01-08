@@ -2,8 +2,10 @@
 
 Welcome to my GitHub repository. Here you will mostly find projects that I have worked on during my free time. Most of my recent projects are private.
 
+### :fire: My Stats :
 [![stat](https://github-readme-streak-stats.herokuapp.com/?user=talbhoggs&theme=dark)](https://github.com/talbhoggs)
-<br />
+
+### 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talbhoggs&layout=compact&theme=dark)](https://github.com/talbhoggs)
 
 ### :hammer_and_wrench: Languages and Tools :
